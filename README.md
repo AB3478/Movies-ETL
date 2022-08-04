@@ -21,3 +21,5 @@ The Kaggle metadata and MovieLens rating data are then converted into separate D
 
 ### Deliverable 4 – Create the Movie Database
 Finally, the movies_df DataFrame and MovieLens rating CSV data were added to a SQL database.
+
+** Of note, I was unable to upload the movies_metadata.csv due to the large file size.
